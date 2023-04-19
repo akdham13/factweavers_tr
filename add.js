@@ -1,3 +1,3 @@
 Hi
 
-new line 2
+new line
